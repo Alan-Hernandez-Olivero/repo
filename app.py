@@ -1,4 +1,4 @@
 import streamlit as st
 st.title('Titulazo')
-st.button('Click')
+st.sidebar.button('Click')
 st.balloons()
